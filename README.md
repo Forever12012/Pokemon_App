@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Pokemon App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React app created to see Pokemons and you can even search your favourite pokemons too. Go catch 'em all.
+
+### Give npm install just after cloning this repo for installing the dependencies.
 
 ## Available Scripts
 
